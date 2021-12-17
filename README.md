@@ -13,10 +13,13 @@
 ### FOR TERMUX USER
 ```bash
 > pkg update && pkg upgrade
-> pkg install git -y
-> pkg install nodejs -y
-> pkg install ffmpeg -y
-> pkg install imagemagick -y
+> pkg install git
+> pkg install libwebp
+> pkg install nodejs
+> pkg install ffmpeg
+> pkg install imagemagick
+> pkg install bash
+> npm install -g pm2
 > git clone https://github.com/DarrenM999/Izayoi-Miku
 > cd Izayoi-Miku
 > npm install
@@ -24,6 +27,16 @@
 ###### Run
 ```bash
 > node . [<session name>] (session name is optional)
+```
+
+```
+> npm start
+```
+###### Run With PM2
+```bash
+> pm2 start (File Name to Run , Example : main.js)
+> pm2 save
+> pm2 monit
 ```
 
 ---------
