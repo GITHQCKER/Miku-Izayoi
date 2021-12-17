@@ -1,15 +1,15 @@
 # Izayoi-Miku-WhatsApp-Bot
-<a href="https://github.com/DarrenM999/Izayoi-Miku/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BochilGaming/games-wabot?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/DarrenM999/Izayoi-Miku/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/BochilGaming/games-wabot?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/DarrenM999/Izayoi-Miku/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/BochilGaming/games-wabot?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/DarrenM999/Izayoi-Miku/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/BochilGaming/games-wabot?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/DarrenM999/Izayoi-Miku/issues"><img title="Issues" src="https://img.shields.io/github/issues/BochilGaming/games-wabot?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/DarrenM999/Izayoi-Miku/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/BochilGaming/games-wabot?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/DarrenM999/Izayoi-Miku/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/BochilGaming/games-wabot?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/DarrenM999/Izayoi-Miku/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/BochilGaming/games-wabot?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/DarrenM999/Izayoi-Miku/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DarrenM999/Izayoi-Miku?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/DarrenM999/Izayoi-Miku/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/DarrenM999/Izayoi-Miku?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/DarrenM999/Izayoi-Miku/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/DarrenM999/Izayoi-Miku?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/DarrenM999/Izayoi-Miku/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/DarrenM999/Izayoi-Miku?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/DarrenM999/Izayoi-Miku/issues"><img title="Issues" src="https://img.shields.io/github/issues/DarrenM999/Izayoi-Miku?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/DarrenM999/Izayoi-Miku/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/DarrenM999/Izayoi-Miku?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/DarrenM999/Izayoi-Miku/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/DarrenM999/Izayoi-Miku?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/DarrenM999/Izayoi-Miku/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/DarrenM999/Izayoi-Miku?label=PullRequest&color=red&style=flat-square"></a>
 
 ## Join Group Bot
-[`Group Whatsapp`](https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM)
+[`Group Whatsapp`](https://chat.whatsapp.com/IsBsA8Z6CaJGvRxaSDDuWB)
 ### FOR TERMUX USER
 ```bash
 > pkg update && pkg upgrade
