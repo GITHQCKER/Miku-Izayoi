@@ -8,6 +8,17 @@
 <a href="https://github.com/DarrenM999/Izayoi-Miku/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/DarrenM999/Izayoi-Miku?label=PullRequest&color=success&style=flat-square"></a>
 <a href="https://github.com/DarrenM999/Izayoi-Miku/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/DarrenM999/Izayoi-Miku?label=PullRequest&color=red&style=flat-square"></a>
 
+## FOR DEPLOY HEROKU USER
+
+
+<p><a href="https://heroku.com/deploy?template="https://github.com/DarrenM999/Izayoi-Miku"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+
+
+## FOR DEPLOY RAILWAY USER
+
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDarrenM999%2FIzayoi-Miku)
+
 ## Join Group Bot
 [`Group Whatsapp`](https://chat.whatsapp.com/IsBsA8Z6CaJGvRxaSDDuWB)
 ### FOR TERMUX USER
@@ -68,5 +79,13 @@
 ```bash
 > npm start
 ```
+
+---------------
+
+#### Powered By : [`XnxxApi`](https://xnxxapi.herokuapp.com/)
+
+#### Author / Creator : [`DcodeDenpa`](https://github.com/dcode-denpa/bitch-boot)
+
+#### Recode By : [`Izayoi Miku Developer`](https://youtube.com/channel/UCKik_26MSZsgfI1c-l2YO2g)
 
 ---------------
