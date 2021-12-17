@@ -82,9 +82,9 @@
 
 ---------------
 
-#### Powered By : [`XnxxApi`](https://xnxxapi.herokuapp.com/)
+#### Powered By : [`GitHub`](https://github.com/)
 
-#### Author / Creator : [`DcodeDenpa`](https://github.com/dcode-denpa/bitch-boot)
+#### Author / Creator : [`Izayoi Miku Developer`](https://github.com/DarenM999/Izayoi-Miku)
 
 #### Recode By : [`Izayoi Miku Developer`](https://youtube.com/channel/UCKik_26MSZsgfI1c-l2YO2g)
 
