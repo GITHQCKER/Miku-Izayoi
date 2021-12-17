@@ -34,7 +34,7 @@
 ```
 ###### Run With PM2
 ```bash
-> pm2 start (File Name to Run , Example : main.js)
+> pm2 start (File Name to Run , Example : main.js or index.js)
 > pm2 save
 > pm2 monit
 ```
