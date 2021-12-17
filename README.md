@@ -29,7 +29,7 @@
 > node . [<session name>] (session name is optional)
 ```
 
-```
+```bash
 > npm start
 ```
 ###### Run With PM2
