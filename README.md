@@ -18,7 +18,7 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > git clone https://github.com/DarrenM999/Izayoi-Miku
-> cd games-wabot
+> cd Izayoi-Miku
 > npm install
 ```
 ###### Run
