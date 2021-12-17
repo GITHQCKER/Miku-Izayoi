@@ -49,6 +49,11 @@
 > Create Repl with Import from GitHub
 > Insert GitHub URL with https://github.com/DarrenM999/Izayoi-Miku
 > git clone https://github.com/DarrenM999/Izayoi-Miku
+> npm install
+```
+###### Run
+```bash
 > npm start
 ```
+
 ---------------
