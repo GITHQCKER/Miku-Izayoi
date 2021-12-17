@@ -43,3 +43,12 @@
 > node index.js
 ```
 --------------
+
+### FOR REPLIT USER
+```bash
+> Create Repl with Import from GitHub
+> Insert GitHub URL with https://github.com/DarrenM999/Izayoi-Miku
+> git clone https://github.com/DarrenM999/Izayoi-Miku
+> npm start
+```
+---------------
