@@ -1,24 +1,3 @@
-/*
-
-   [❗] INGIN BERTANYA TANYA???
-HUBUNGI => 6287834993722
-[❗] ATAU SILAHKAN JOIN
-=> https://chat.whatsapp.com/ExvXgylW4LSIfGNGdg28xv
-
-[❗] SC ORI : NURUTOMO
-[❗] RECODE : RAKU
-
-🙍‍♂️ : "KOK SIMPLE BANGET MENU NYA"
-🧕 : "YAA KAN SAYA NOOB 
-🙍‍♂️ : "KESIAN BADUT YANG SATU INI 🤡"
-🧕 : "N4P4 G45EN4N6?? PUKUL1N 4J4 4N4K P4NT1, M4U N64DU 4M4 S14P4?? 0R4N6 7UA NY4?? CUPU LU"
-🙍‍♂️ : ".............."
-
-👨‍👩‍👧‍👧 : DARIPADA RIBUT BANTU ADMIN 
-YOK DENGAN CARA SUBSCRIBE
-YT BotolBotZ
- 
-*/
 let fs = require ('fs')
 const { createHash } = require('crypto') 
 let util = require('util')
