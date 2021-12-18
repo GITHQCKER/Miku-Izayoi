@@ -44,7 +44,8 @@ Wa Version : ${conn.user.phone.wa_version}
 Bot Number : ${conn.getName(conn.user.jid)}
 Prefix : [ Multi Prefix ]
 Youtube : https://youtube.com/channel/UCKik_26MSZsgfI1c-l2YO2g
-My Grup : https://chat.whatsapp.com/IsBsA8Z6CaJGvRxaSDDuWB
+WhatsApp Grup : https://chat.whatsapp.com/IsBsA8Z6CaJGvRxaSDDuWB
+Source Code : https://github.com/DarrenM999/Miku-Izayoi
 ༺═──────────────═༻
 *Miku Bot Menu*
 
