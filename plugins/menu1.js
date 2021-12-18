@@ -135,7 +135,7 @@ const ftroli = {
                             status: 1,
                             surface : 1,
                             message: 'Halo Bang', //Kasih namalu
-                            orderTitle: 'Follow YT DM Dev Channel',
+                            orderTitle: 'Follow GitHub Miku Izayoi Developer',
                             thumbnail: fs.readFileSync('./src/logo.jpg'), //Gambarnye
                             sellerJid: '0@s.whatsapp.net'
           
@@ -147,7 +147,7 @@ const fcon = {
 	 { fromMe: false,
 	 participant: `0@s.whatsapp.net`, ...(m.chat ? 
 	 { remoteJid: "status@broadcast" } : {}) },
-	 message: { "contactsArrayMessage": { "title":"HermanGans","h": `aloo`, 'jpegThumbnail': fs.readFileSync('./src/logo.jpg')}}
+	 message: { "contactsArrayMessage": { "title":"MikuIzayoi","h": `aloo`, 'jpegThumbnail': fs.readFileSync('./src/logo.jpg')}}
 	}
 const ftextt = {
 	 key: { 
@@ -157,7 +157,7 @@ const ftextt = {
                 },
 	 message: { 
 		"extendedTextMessage": {
-                 "text":"hallo bang",
+                 "text":"Hello !",
                  "title": `Hmm`,
                  'jpegThumbnail': fs.readFileSync('./src/logo.jpg')
                         }
@@ -499,7 +499,7 @@ ${petik}Im ${conn.getName(conn.user.jid)} And You Use Prefix %p${petik}
 
                     thumbnailUrl: await conn.getProfilePicture(conn.user.jid),
 
-                    mediaUrl: 'https://youtube.com/c/ZEROBOT7'
+                    mediaUrl: 'https://github.com/DarrenM999/Miku-Izayoi'
 
                 }
 
