@@ -48,24 +48,22 @@ My Grup : https://chat.whatsapp.com/IsBsA8Z6CaJGvRxaSDDuWB
 ༺═──────────────═༻
 *Miku Bot Menu*
 
-*Daftar*
+*Register*
 /daftar <nama|umur>
 /register <nama|umur>
 /runtime
 /tes
 /iklan
-/jsjhdhd <link gc>
-/prtrn
 /rules
 /registered
  
-*Absensi Menu*
+*Absent Menu*
 /absen
 /cekabsen
 /hapusabsen
 /mulaiabsen [teks]
  
-*Exp & Limit*
+*Exp & Limit Menu*
 /peti
 /buy<jumlah limit>
 /buy <jumlah limit>
@@ -85,7 +83,7 @@ My Grup : https://chat.whatsapp.com/IsBsA8Z6CaJGvRxaSDDuWB
 /unreg <sn>
 /unregister <sn>
 
-*Adventure Menu (NEW)*
+*Adventure Menu*
 /berburu
 /mancing
 /adventure
@@ -125,7 +123,7 @@ My Grup : https://chat.whatsapp.com/IsBsA8Z6CaJGvRxaSDDuWB
 /use <item> <jumlah>
 /heal
  
-*Hadiah*
+*Gift Menu*
 /bonus
 /hadiah
 /buygift
@@ -133,40 +131,7 @@ My Grup : https://chat.whatsapp.com/IsBsA8Z6CaJGvRxaSDDuWB
 /gift <kode> (Limit)
 /runtime
  
-*18+ Menu*
-/filebokep
-/ahegao  (Limit)
-/ass  (Limit)
-/bdsm  (Limit)
-/blowjob  (Limit)
-/bokep  (Limit)
-/cersex <query> (Limit)
-/cuckold 
-/ero  (Limit)
-/gifhentai (Limit)
-/hentai  (Limit)
-/waifu18  (Limit)
-/hentaigif  (Limit)
-/indohot
-/kodenuklir (Limit)
-/mstrb  (Limit)
-/nekolatest (Limit)
-/nekopoi (Limit)
-/nhsearch <query> (Limit)
-/nhentaisearch <query> (Limit)
-/nhpdf <code> (Limit)
-/neko
-/orgy  (Limit)
-/panties  (Limit)
-/porno (-10 Limit) (Limit)
-/sange (Limit)
-/sfwneko  (Limit)
-/tentacles 
-/thighs 
-/uniform 
-/yuri (Limit)
- 
-*Database*
+*Database Menu*
 /addvn <text>
 /addmsg <text>
 /addvideo <text>
@@ -261,7 +226,7 @@ My Grup : https://chat.whatsapp.com/IsBsA8Z6CaJGvRxaSDDuWB
 /manga <judul>
 /mangalink
 /manhwalink
-/.megumin
+/megumin
 /nekolatest (Limit)
 /nekopoi (Limit)
 /quoteanime
@@ -271,7 +236,7 @@ My Grup : https://chat.whatsapp.com/IsBsA8Z6CaJGvRxaSDDuWB
 /wallpaperanime (Limit)
 /wibu  (Limit)
  
-*Jodoh Menu*
+*Love Menu*
 /jodohin
 /jodoh <nama>|<nama doi>
 /pesankosong (Limit)
@@ -522,12 +487,12 @@ My Grup : https://chat.whatsapp.com/IsBsA8Z6CaJGvRxaSDDuWB
 /intromaker
 /shaunthesheep
  
-*Anonymous Chat*
+*Anonymous Chat Menu*
 /start
 /leave
 /next
 
-*Virus*
+*Virus Menu*
 /katalog
 /lokasi
 
@@ -583,18 +548,15 @@ My Grup : https://chat.whatsapp.com/IsBsA8Z6CaJGvRxaSDDuWB
 /gombal
 /hug
 /katailham
-/murothal
-/kisahnabi <nama> (Limit)
 /pantun
 /puisi
 /syair
 /quotes
 /katabijak
 /renungan
-/tahlil
 /up2urp
  
-*Primbon Menu*
+*Horoscope Menu*
 /artinama <nama> (Limit)
 /cekjodoh <pasangan> (Limit)
 /ceksifat <nama>
@@ -615,12 +577,8 @@ My Grup : https://chat.whatsapp.com/IsBsA8Z6CaJGvRxaSDDuWB
  
 *Music Menu*
 /whatmusic
-
-*Simsimi Menu*
-/simi2 <chat>
-/s2 <chat>
  
-*Kerang Menu*
+*Ask Menu*
 /apakah <teks>?
 /apakah <pertanyaan>
 /artimimpi [mimpi]
@@ -780,7 +738,6 @@ My Grup : https://chat.whatsapp.com/IsBsA8Z6CaJGvRxaSDDuWB
 /save <nama>
 /scan [nomor]
 /sha256
-/sholat <daerah>
 /sid <link> (Limit)
 /short <link> (Limit)
 /kecepatan
@@ -801,7 +758,7 @@ My Grup : https://chat.whatsapp.com/IsBsA8Z6CaJGvRxaSDDuWB
 /ytsearch <pencarian>
 /zodiac *2002 02 25*
  
-*Bot Numpang*
+*Bot Menu*
 /jadibot (Limit)
 /listjadibot
  
@@ -896,7 +853,7 @@ My Grup : https://chat.whatsapp.com/IsBsA8Z6CaJGvRxaSDDuWB
 /roload
 /update2
 
-*Information*
+*Information Menu*
 /.apikey
 /bannedlist
 /boost
@@ -923,6 +880,8 @@ My Grup : https://chat.whatsapp.com/IsBsA8Z6CaJGvRxaSDDuWB
 /ping
 /speed
 /websetapi
+
+Thankyou for using Miku Izayoi WhatsApp Bot
 `.trim(),    footerText: 'Miku Izayoi Bot' ,
     buttons: buttons,
   imageMessage: await conn.toMSG({ url: imeg }, 'imageMessage'),
