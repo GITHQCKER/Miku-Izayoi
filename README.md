@@ -84,8 +84,8 @@
 
 #### Powered By : [`GitHub`](https://github.com/)
 
-#### Author / Creator : [`Izayoi Miku Developer`](https://github.com/DarenM999/Miku-Izayoi)
+#### Author / Creator : [`Miku Izayoi Developer`](https://github.com/DarenM999/Miku-Izayoi)
 
-#### Recode By : [`Izayoi Miku Developer`](https://youtube.com/channel/UCKik_26MSZsgfI1c-l2YO2g)
+#### Recode By : [`Miku Izayoi Developer`](https://youtube.com/channel/UCKik_26MSZsgfI1c-l2YO2g)
 
 ---------------
