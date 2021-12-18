@@ -2,25 +2,25 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `
 ┏━━°❀❬ *INFO* ❭❀°━━┓
 ┃
-┃> Bot Recoded By :
-┃• HERMAN - BOTZ
+┃> Bot Created By :
+┃• Izayoi Miku Developer
 ┃
-┃> Bot Dibuat Dengan :
+┃> Bot Component :
 ┃• JavaScript via NodeJS
 ┃• FFmpeg
+┃• ImageMagick
 ┃
 ┃> Thanks To :
-┃• Nurutomo
-┃• Drawl Nag
-┃• RC047/Kuhong
+┃• Izayoi Miku Developer
+┃• DarrenM
 ┃
 ┣━━°❀❬ *DONASI* ❭❀°━━┓
-┣➥ *AXIS:* [083146208804]
-┣➥ *Dana:* [083146208804]
-┣➥ *Gopay:* [083146208804]
-┣➥ *Saweria:* [https://saweria.co/HermanChanel]
+┣➥ *TELKOMSEL:* [081313559753]
+┣➥ *Dana:* [081313559753]
+┣➥ *Gopay:* [081313237349]
+┣➥ *Saweria:* [https://saweria.co/MikuIzayoi]
 ┃ 「 *Chat OWNER* 」
-┃ > *Ingin donasi? https://wa.me/6283146208804*
+┃ > *Ingin donasi? https://wa.me/6281313237349*
 ┗━━━━━━━━━━━━━━━━
 `.trim()
 
