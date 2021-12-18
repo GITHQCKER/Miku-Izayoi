@@ -1,5 +1,5 @@
 let handler  = async (m, { conn, args }) => {
- const ftoko = { key : { fromMe: false, participant : `0@s.whatsapp.net` },message: {orderMessage: { message: `Bot Ini Menggunakan Script : https://github.com/ZeroChanBot/ZeroGans\n\nAtau Bisa Dapatkan Script Free Apikey : https://youtube.com/c/ZEROBOT7`,thumbnail: fs.readFileSync("./src/logo.jpg")}}}
+ const ftoko = { key : { fromMe: false, participant : `0@s.whatsapp.net` },message: {orderMessage: { message: `Miku Izayoi WhatsApp Bot Source Code : https://github.com/DarrenM999/Izayoi-Miku`,thumbnail: fs.readFileSync("./src/logo.jpg")}}}
 
 
 
