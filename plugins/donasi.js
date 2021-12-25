@@ -1,7 +1,7 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `
 ┏━━°❀❬ *DONASI* ❭❀°━━┓
-┣➥ *AXIS:* [0813-1323-7349]
+┣➥ *TELKOMSEL:* [0813-1323-7349]
 ┣➥ *DANA:* [0813-1355-9753]
 ┣➥ *OVO:* [0813-1323-7349]
 ┣➥ *GO-PAY:* [0813-1355-9753]
