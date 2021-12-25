@@ -104,7 +104,7 @@ if (opts['test']) {
     process.send(line.trim())
   })
   conn.connect().then(() => {
- conn.sendMessage('6281313237349@c.us', 'Bot Telah Tersambung Ke Database Miku Bot', 'conversation');
+ conn.sendMessage('6281313237349@c.us', 'Connected to Miku Izayoi Database !', 'conversation');
     fs.writeFileSync(authFile, JSON.stringify(conn.base64EncodedAuthInfo(), null, '\t'))
     global.timestamp.connect = new Date
   })
@@ -121,10 +121,10 @@ global.reloadHandler = function () {
     conn.off('group-participants-update', conn.onParticipantsUpdate)
     conn.off('CB:action,,call', conn.onCall)
   }
-  conn.welcome = 'Hai @user\nWelcome in group:\n@subject\nSubscribe yt owner\nhttps://youtube.com/channel/UCKik_26MSZsgfI1c-l2YO2g'
-  conn.bye = 'Byee @user!'
-  conn.spromote = '@user Sekarang Admin!'
-  conn.sdemote = '@user Sekarang Bukan Admin!'
+  conn.welcome = 'Hai @user\nWelcome to Group:\n@subject\nGitHub : https://github.com/DarrenM/Miku-Izayoi\nMiku Izayoi Bot'
+  conn.bye = 'Bye @user!'
+  conn.spromote = '@user You are now Admin !'
+  conn.sdemote = '@user You are not Admin Now !'
   conn.handler = handler.handler
   conn.onDelete = handler.delete
   conn.onParticipantsUpdate = handler.participantsUpdate
