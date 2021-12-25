@@ -1,6 +1,5 @@
 let handler = async (m, { conn, text }) => {
-  conn.reply(m.chat, `
-Subscribe Channel Ku Ya Kak\nChannel Ku Aku Taroh Di Bagian *${usedPrefix}menu*
+  conn.reply(m.chat, `GitHub : https://github.com/DarrenM999/Miku-Izayoi 
 `.trim(), m)
 
 }
