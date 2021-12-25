@@ -3,7 +3,8 @@ let event= `
 ╭─❒ SCRIPT
 │◦➛Base : Miku Izayoi Developer
 │◦➛Recode : *©Miku Bot*
-└──────[ YOUTUBE ]──────❒
+│◦➛GitHub : https://github.com/DarrenM999/Miku-Izayoi
+└──────[ Contact ]──────❒
   │◦➛Script  : wa.me/6281313237349
   └──────────────────❒`
  buttons = [
