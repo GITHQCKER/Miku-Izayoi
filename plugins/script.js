@@ -1,10 +1,10 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 let event= `
 ╭─❒ SCRIPT
-│◦➛Base : Nurotomo
-│◦➛Recode : *©Herman Botz*
+│◦➛Base : Miku Izayoi Developer
+│◦➛Recode : *©Miku Bot*
 └──────[ YOUTUBE ]──────❒
-  │◦➛Script  : wa.me//6283146208804
+  │◦➛Script  : wa.me/6281313237349
   └──────────────────❒`
  buttons = [
 {buttonId: `menu`, buttonText: {displayText: 'BACK➡️'}, type: 1},
