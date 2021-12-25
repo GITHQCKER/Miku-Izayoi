@@ -3,47 +3,51 @@ let info = `🔰 -----[ 「 *IKLAN HERMAN BOTZ* 」 ]----- 🔰
 
 ──────────────────────────────
 
-◯ *DAFTAR SEWA & BUAT BOT :*
+◯ *LIST CREATE & RENT BOT :*
 
-◯ *SEWA : 25K/GRUP (BULAN)*
+◯ *RENT : RP 50.000,00 / MONTH*
 
-◯ *BUAT : 100K (BISA JADI OWNER)*
+◯ *CREATE : RP 250.000,00 / MONTH*
 
-◯ *PEMBAYARAN BISA MELALUI :*
+◯ *PAYMENT VIA :*
 
 ◯ *DANA*
 
-◯ *PULSA*
+◯ *OVO*
+
+◯ *GOPAY*
+
+◯ *Q-RIS*
+
+◯ *TELKOMSEL*
 
 ──────────────────────────────
-◯ *KEUNTUNGAN SEWA BOT :*
+◯ *ADVANTAGES OF RENTING BOT :*
 
-◯ *1. BISA MEMASUKAN BOT KE GROUP*
+◯ *1. ADD BOT TO GROUP*
 
-◯ *2. BISA MENGGUNAKAN FITUR PREMIUM*
+◯ *2. USE PREMIUM COMMAND*
 
-◯ *KEUNTUNGAN BUAT BOT :*
+◯ *ADVANTAGES OF CREATING BOT :*
 
-◯ *1. BISA MENJADI OWNER BOT SENDIRI*
+◯ *1. USE OWNER COMMAND*
 
-◯ *2. BISA MENGGANTI NAMA BOT SENDIRI*
+◯ *2. USE YOUR OWN NAME BOT*
 
-◯ *3. BISA MEMBAWA BOT KE GROUP*
+◯ *3. ADD BOT TO GROUP*
 
-◯ *4. BISA MENGGUNAKAN COMMAND OWNER*
-
-◯ *5. BISA MENYEWAKAN BOT KEMBALI*
+◯ *4. BE THE OWNER OF BOT*
 
 ──────────────────────────────
-◯ *JIKA MINAT IKLAN DIATAS*
+◯ *OWNER CONTACT*
 
-◯ *HARAP HUBUNGI NOMOR DIBAWAH :*
+◯ *OWNER WHATSAPP LINK :*
 
-◯ *wa.me/6283146208804*
+◯ *wa.me/6281313237349*
 
 ──────────────────────────────
 
-🔰 ---[「 *POWERED BY HERMAN CHANEL* 」]--- 🔰` 
+🔰 ---[「 *POWERED BY MIKU IZAYOI* 」]--- 🔰` 
 
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*BOT TERVERIFIKASI*', 'status@broadcast')
 }
