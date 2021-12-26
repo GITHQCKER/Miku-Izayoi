@@ -32,7 +32,7 @@
 > pkg install bash
 > npm install -g pm2
 > git clone https://github.com/DarrenM999/Miku-Izayoi
-> cd Izayoi-Miku
+> cd Miku-Izayoi
 > npm install
 ```
 ###### Run
