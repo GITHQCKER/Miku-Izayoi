@@ -88,6 +88,6 @@
 
 #### Recode By : [`Miku Izayoi Developer`](https://youtube.com/channel/UCKik_26MSZsgfI1c-l2YO2g)
   
-#### Link Tree : [`Link Tree`](https://linktr.ee/MikuIzayoi)
+#### Link Tree : [`Miku Izayoi`](https://linktr.ee/MikuIzayoi)
 
 ---------------
