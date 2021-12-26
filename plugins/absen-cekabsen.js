@@ -23,7 +23,7 @@ ${list}
 │ 
 └────
 
-_BotolBotZ_`, m, { contextInfo: { mentionedJid: absen } })
+_Miku Bot_`, m, { contextInfo: { mentionedJid: absen } })
 }
 handler.help = ['cekabsen']
 handler.tags = ['abs']
