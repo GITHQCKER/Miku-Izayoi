@@ -87,5 +87,7 @@
 #### Author / Creator : [`Miku Izayoi Developer`](https://github.com/DarenM999/Miku-Izayoi)
 
 #### Recode By : [`Miku Izayoi Developer`](https://youtube.com/channel/UCKik_26MSZsgfI1c-l2YO2g)
+  
+#### Link Tree : [`Link Tree`](https://linktr.ee/MikuIzayoi)
 
 ---------------
